@@ -25,9 +25,16 @@ Firebase or Twilio for sending notifications
 Machine Learning:
 
 YOLO (You Only Look Once): For real-time object detection
-
-# Configuration and Installation
-
 # Cloning the Repository
+```
 git clone https://github.com/BMainardes/GuardButton-YOLOV8.git
-cd security-tcc
+```
+# Configuration and Installation
+```
+pip install -r requirements.txt
+```
+# Running
+```
+python GuardButton.py
+```
+
