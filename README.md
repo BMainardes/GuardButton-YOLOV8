@@ -16,15 +16,13 @@ Communication modules (GSM, Wi-Fi, LoRa)
 Security cameras
 Software:
 
-Python for machine learning and automation scripts
-OpenCV for image manipulation
-TensorFlow/Keras or PyTorch for model training
-Flask or Django for backend
-MySQL/PostgreSQL for data storage
+Python for machine learning, backend and automation scripts
+MySQL
 Firebase or Twilio for sending notifications
 Machine Learning:
 
 YOLO (You Only Look Once): For real-time object detection
+
 # Cloning the Repository
 ```
 git clone https://github.com/BMainardes/GuardButton-YOLOV8.git
