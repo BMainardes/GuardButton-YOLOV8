@@ -23,6 +23,11 @@ Machine Learning:
 
 YOLO (You Only Look Once): For real-time object detection
 
+# You can found and use my personal dataset in:
+Actualy it can only detect guns, if you want to work with me and provide a larger dataset with another classes, please DM me 🙂
+```
+https://app.roboflow.com/guardianbutton/guns-detection-twpvd/deploy
+```
 # Cloning the Repository
 ```
 git clone https://github.com/BMainardes/GuardButton-YOLOV8.git
